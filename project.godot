@@ -1,0 +1,7 @@
+[gd_project]
+config_version=4
+
+[application]
+name="LoritaGamePrototype"
+config/name="LoritaGamePrototype"
+run/main_scene="res://scenes/main.tscn"
